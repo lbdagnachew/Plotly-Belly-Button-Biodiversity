@@ -1,0 +1,15 @@
+body {
+    color: #000000;
+  }
+
+.jumbotron {
+    background: url("bacteria.jpg") center center no-repeat;
+    background-size: 100% 150%;
+    text-align: center;
+}
+
+#example {
+  font-family: Verdana;
+  font-size: 16px;
+  color: #660066;
+}
